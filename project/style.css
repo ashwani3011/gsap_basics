@@ -1,0 +1,11 @@
+body {
+  margin: 10px;
+}
+
+.box {
+  display: block;
+}
+
+.pink {
+  background-color: pink;
+}
